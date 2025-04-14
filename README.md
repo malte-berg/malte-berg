@@ -15,6 +15,7 @@
   
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/C-3672ac?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://tinyurl.com/csharpshieldslogo)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Prolog](https://tinyurl.com/prologlogo)
@@ -25,6 +26,7 @@
 ![Proxmox](https://img.shields.io/badge/ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black)
 
 </div>
 
