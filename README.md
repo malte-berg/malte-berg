@@ -13,20 +13,20 @@
 ## Languages and Technologies
 <div align=center>
   
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-3672ac?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://tinyurl.com/csharpshieldslogo)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Prolog](https://tinyurl.com/prologlogo)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-759dc6?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)
-![Inventor](https://img.shields.io/badge/Inventor-d4b13c?style=for-the-badge&logo=autodesk&logoColor=white)
-![Proxmox](https://img.shields.io/badge/ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black)
+[![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk)](https://java.com/)
+[![C](https://img.shields.io/badge/C-3672ac?style=for-the-badge&logo=c&logoColor=white)]()
+[![C#](https://tinyurl.com/csharpshieldslogo)](https://dotnet.microsoft.com/en-us/languages/csharp/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Prolog](https://tinyurl.com/prologlogo)](https://swi-prolog.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-759dc6?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://postgresql.org/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)](https://autodesk.com/products/autodesk/)
+[![Inventor](https://img.shields.io/badge/Inventor-d4b13c?style=for-the-badge&logo=autodesk&logoColor=white)](https://autodesk.com/products/inventor/)
+[![Proxmox](https://img.shields.io/badge/ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://proxmox.com/)
+[![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc/)
+[![Unity](https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com/)
 
 </div>
 
