@@ -20,6 +20,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Prolog](https://tinyurl.com/prologlogo)](https://swi-prolog.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-759dc6?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://postgresql.org/)
+[![Erlang](https://img.shields.io/badge/Erlang-a90533?style=for-the-badge&logo=erlang&logoColor=white)](https://erlang.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)](https://autodesk.com/products/autodesk/)
 [![Inventor](https://img.shields.io/badge/Inventor-d4b13c?style=for-the-badge&logo=autodesk&logoColor=white)](https://autodesk.com/products/inventor/)
