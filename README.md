@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-- 🎒 Currently enrolled as a second year student at **KTH Royal Institute of Technology**
+- 🎒 Currently enrolled as a third year student at **KTH Royal Institute of Technology**
 - 🔭 Pursuing the **Degree Programme in Information and Communication Technology**
 - 🔬 Currently focused on **Networks and Communication**
 - ⛳️ Working on expanding my Homelab, learning new things every day
