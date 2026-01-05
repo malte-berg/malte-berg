@@ -27,6 +27,7 @@
 [![Inventor](https://img.shields.io/badge/Inventor-d4b13c?style=for-the-badge&logo=autodesk&logoColor=white)](https://autodesk.com/products/inventor/)
 [![Proxmox](https://img.shields.io/badge/ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://proxmox.com/)
 [![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc/)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32l4x6.html)
 [![Unity](https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com/)
