@@ -5,8 +5,9 @@
 </div>
 
 ## About Me
-- 🎒 Currently enrolled as a third year student at **KTH Royal Institute of Technology**
+- 🎒 Currently enrolled as a fourth year student at **KTH Royal Institute of Technology**
 - 🔭 Pursuing the **Degree Programme in Information and Communication Technology**
+- 📡 Enrolled in the **Communication Systems (TCOMM) Master's Programme**
 - 🔬 Focused on **Networks and Communication**
 - ⛳️ Working on expanding my Homelab, learning new things every day
 
